@@ -1,5 +1,9 @@
 # Final Team Project X
 
+## Track buses around you in real time!
+
+![image](1024.png)
+
 A TransLoc-like app using MapKit and CoreLocation frameworks.
 
 ## Overall Description
