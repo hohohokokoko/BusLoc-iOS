@@ -2,7 +2,7 @@
 
 ## Track buses around you in real time!
 
-![image](1024.png)
+![image](256.png)
 
 A TransLoc-like app using MapKit and CoreLocation frameworks.
 
