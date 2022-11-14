@@ -1,6 +1,6 @@
 # Final Team Project X
 
-Aiming to develop a TransLoc-like app using MapKit and CoreLocation frameworks.
+A TransLoc-like app using MapKit and CoreLocation frameworks.
 
 ## Overall Description
 
